@@ -1,4 +1,4 @@
-var x=0;
+var x=300;
 var h=0
 var direccion=1;
 
