@@ -12,7 +12,7 @@ function draw() {
   noStroke();
   fill(255);
 
-  // Botones e icones de Herramientas
+  // Botones de Herramientas
   rect(10, 10, tamRecHer, tamRecHer);
   rect(10, 50, tamRecHer, tamRecHer);
   rect(10, 90, tamRecHer, tamRecHer);
