@@ -6,4 +6,4 @@
 3. [Movimiento](https://manuelhernandezleon.github.io/medios/carpeta_03/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_03/sketch.js)
 4. [Herramienta "Paint"](https://manuelhernandezleon.github.io/medios/Carpeta_04/) / 
-[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_04/sketch.js)
+[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_04/Carpeta_04.js)
