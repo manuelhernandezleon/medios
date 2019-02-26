@@ -5,5 +5,5 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_02/sketch.js)
 3. [Movimiento](https://manuelhernandezleon.github.io/medios/carpeta_03/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_03/sketch.js)
-4. [Herramienta "Paint"](https://manuelhernandezleon.github.io/medios/carpeta_04/) / 
-[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_04/sketch.js)
+4. [Herramienta "Paint"](https://manuelhernandezleon.github.io/medios/Carpeta_04/) / 
+[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_04/sketch.js)
