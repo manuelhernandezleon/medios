@@ -7,3 +7,5 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_03/sketch.js)
 4. [Herramienta "Paint"](https://manuelhernandezleon.github.io/medios/Carpeta_04/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_04/Carpeta_04.js)
+5. [Juego](https://manuelhernandezleon.github.io/medios/Carpeta_05/) / 
+[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_05/Carpeta_05.js)
