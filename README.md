@@ -11,5 +11,3 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_05/Carpeta_05.js)
 6. [Espacio.tiempo](https://manuelhernandezleon.github.io/medios/Carpeta_06/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_06/Carpeta_06.js)
-4. [tiempo espacio](https://manuelhernandezleon.github.io/medios/Carpeta_064/) / 
-[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_064/Carpeta_064.js)
