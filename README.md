@@ -11,5 +11,5 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_05/Carpeta_05.js)
 6. [Espacio.tiempo](https://manuelhernandezleon.github.io/medios/Carpeta_06/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_06/Carpeta_06.js)
-7. [Tablero Mixer](https://manuelhernandezleon.github.io/medios/Carpeta_07/) / 
+7. [Beat Mixer](https://manuelhernandezleon.github.io/medios/Carpeta_07/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_07/Carpeta_07.js)
