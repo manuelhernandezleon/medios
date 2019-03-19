@@ -257,7 +257,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (b2.isPlaying()) {
-    // .isPlaying() returns a boolean
     b2.stop();
     cuadrocolor2 = 104
   } else {
@@ -271,7 +270,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (b3.isPlaying()) {
-    // .isPlaying() returns a boolean
     b3.stop();
     cuadrocolor3 = 104
   } else {
@@ -285,7 +283,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (misterio1.isPlaying()) {
-    // .isPlaying() returns a boolean
     misterio1.stop();
     misteriocolor1 = 157
   } else {
@@ -296,10 +293,9 @@ fill(255, hithatcolor2, 92);
 
         //misterio 2
    if(areamisterio2 == true)
-  {
-    
+   {
+     
  if (misterio2.isPlaying()) {
-    // .isPlaying() returns a boolean
     misterio2.stop();
     misteriocolor2 = 157
   } else {
@@ -313,7 +309,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (misterio3.isPlaying()) {
-    // .isPlaying() returns a boolean
     misterio3.stop();
     misteriocolor3 = 157
   } else {
@@ -327,7 +322,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (hithat1.isPlaying()) {
-    // .isPlaying() returns a boolean
     hithat1.stop();
     hithatcolor1 = 73
   } else {
@@ -341,7 +335,6 @@ fill(255, hithatcolor2, 92);
   {
     
  if (hithat2.isPlaying()) {
-    // .isPlaying() returns a boolean
     hithat2.stop();
     hithatcolor2 = 73
   } else {
