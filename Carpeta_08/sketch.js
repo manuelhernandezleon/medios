@@ -73,7 +73,7 @@ function draw() {
       posX2[f] = posX2[f] * -1;
     }
   }
-
+//Virus rojo
   for (var v = 0; v < cant3; v = v + 1) {
     noStroke();
     fill(238, 77, 78);
