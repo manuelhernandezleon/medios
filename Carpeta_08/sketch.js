@@ -1,6 +1,6 @@
 //bacterias
 var bacterias = [];
-var numBacterias = 3;
+var numBacterias = 10;
 
 //virus
 var viruss = [];
