@@ -20,7 +20,7 @@ var numGusanos = 20;
 
 
 function setup() {
-  createCanvas(700, 700);
+  createCanvas(1000, 1000);
 
   for (var i = 0; i < numBacterias; i = i + 1) {
     bacterias[i] = new bacteria(random(width), random(height));
