@@ -226,9 +226,9 @@ function virus(_x, _y) {
   }
 
   this.edad = function() {
-    this.edad1 = this.edad1 - 30
-    this.edad2 = this.edad2 - 30
-    this.edad3 = this.edad3 - 10
+    this.edad1 = this.edad1 - 5
+    this.edad2 = this.edad2 - 5
+    this.edad3 = this.edad3 - 5
     
     if (this.edad1 == 0) {
       viruss.push(new virus(random(width), random(height)));
