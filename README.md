@@ -13,5 +13,5 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_06/Carpeta_06.js)
 7. [Beat Mixer](https://manuelhernandezleon.github.io/medios/Carpeta_07/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_07/Carpeta_07.js)
-8. [Ecosistema Celular](https://manuelhernandezleon.github.io/medios/Carpeta_08/) / 
+8. [Ecosistema Celular](https://github.com/manuelhernandezleon/medios/tree/master/Carpeta_08) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_08/sketch.js)
