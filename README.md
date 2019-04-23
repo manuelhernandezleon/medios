@@ -15,3 +15,5 @@
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_07/Carpeta_07.js)
 8. [Ecosistema Celular](https://manuelhernandezleon.github.io/medios/Carpeta_08/) / 
 [Codigo](https://github.com/manuelhernandezleon/medios/blob/master/Carpeta_08/sketch.js)
+9. [Muertes por Malaria](https://manuelhernandezleon.github.io/medios/carpeta_09/) / 
+[Codigo](https://github.com/manuelhernandezleon/medios/blob/master/carpeta_09/sketch.js)
