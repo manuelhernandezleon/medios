@@ -176,8 +176,9 @@ function draw() {
 
     ///////INSTRUCCIONES/////
 
-    instruccion.apareceInstruccion();
-    
+   if(frameCount > 360 && frameCount < 820) {
+        instruccion.apareceInstruccion();
+   }    
         /////// RELOJ /////////////
     
     var hora = hour();
@@ -334,10 +335,6 @@ function touchEnded() {
     estado = ANIMACION;
     tiempoAnterior = millis();
   }
-  if (estado == INTERACCION) {
-    instruccion.esconde();
-  }
-
 }
 
 
