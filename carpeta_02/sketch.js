@@ -4,7 +4,7 @@ var preFrame;
 
 
 function setup() {
-  createCanvas(width, height);
+  createCanvas(1920, 1080);
   pixelDensity(1);
   video = createCapture(VIDEO);
   video.size(width / scaler, height / scaler);
